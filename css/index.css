@@ -21,15 +21,20 @@ header{
     flex-direction: column;
 }
 header h1{
-    font-size: 3rem;
+    font-size: max(1.3rem, 40px);
     height: 43px;
     z-index: 2;
     color: var(--clMainColor);
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
 }
 header p{
     font-size: 1rem;
     z-index: 1;
     color: var(--clText);
+    width: 100%;
+    text-align: center;
 }
 .content{
     width: 100%;
