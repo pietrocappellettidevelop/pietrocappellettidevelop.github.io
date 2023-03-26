@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+:root {
+    --clMainBack: #121212;
+    --clText: #FFFFFF;
+    --clMainColor: #BB86FC;
+    --clHeaderBack: rgba(187, 134, 252, 0.3);
+}
